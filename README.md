@@ -1,1 +1,13 @@
-Команды для за пуска npm install -g json-server, npm install, дальше нужно поднять сервер npm run moc потом просто запустить проект mpm start
+**Команды для за пуска** 
+```sh
+npm install -g json-server
+npm install 
+```
+**дальше нужно поднять сервер**
+```sh
+npm run moc
+```
+**потом просто запустить проект** 
+```sh
+npm start
+```
