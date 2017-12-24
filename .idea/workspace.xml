@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8315f3c3-f1ed-4a27-91c8-f415c8712b8c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +76,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="141" lean-forward="true" selection-start-line="2" selection-start-column="141" selection-end-line="2" selection-end-column="141" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -259,12 +258,12 @@
       <workItem from="1514111332959" duration="2000" />
       <workItem from="1514111349180" duration="396000" />
       <workItem from="1514112285234" duration="2174000" />
-      <workItem from="1514114750146" duration="1370000" />
+      <workItem from="1514114750146" duration="1490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80861000" />
+    <option name="totallyTimeSpent" value="80981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1296" height="1040" extended-state="6" />
@@ -620,8 +619,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="141" lean-forward="true" selection-start-line="2" selection-start-column="141" selection-end-line="2" selection-end-column="141" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
